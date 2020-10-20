@@ -15,9 +15,8 @@ tags:
 Ασκηση: Επεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.
 <hr>
 <br>
-<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="dhmosfunk" data-slug-hash="OJXMZyQ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Παραδοτέο  2(Button)">
-  <span>See the Pen <a href="https://codepen.io/dhmosfunk/pen/OJXMZyQ">
-  Παραδοτέο  2(Button)</a> by Δημοστεν Τζαμα Π2019213 (<a href="https://codepen.io/dhmosfunk">@dhmosfunk</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+<iframe height="265" style="width: 100%;" scrolling="no" title="Παραδοτέο  2(Button)" src="https://codepen.io/dhmosfunk/embed/OJXMZyQ?height=265&theme-id=dark&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/dhmosfunk/pen/OJXMZyQ'>Παραδοτέο  2(Button)</a> by Δημοστεν Τζαμα Π2019213
+  (<a href='https://codepen.io/dhmosfunk'>@dhmosfunk</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
