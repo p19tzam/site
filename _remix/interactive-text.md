@@ -21,3 +21,4 @@ tags:
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 Ασκηση: Απομονώστε το εφέ της επιλογής σας και χρησιμοποιείστε το σε κείμενο της επιλογής σας σε μια νέα html σελίδα.
+ 
